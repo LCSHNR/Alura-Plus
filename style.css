@@ -3,7 +3,7 @@
     --cinza-secundario: #c0c0c0;
     --botao-azul: #167bf7;
     --cor-de-fundo: #00030c;
-    --fonte-principal:'inter';
+    --fonte-principal:'Inter';
 
 }
 
@@ -35,7 +35,7 @@ body{
 }
 
 .container__botao{
-    background:var(--botao-azul);
+    background-color:var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
     color:var(--branco-principal);
@@ -82,6 +82,6 @@ body{
     margin-top: 1em;
 
 }
-.container__decricao{
+.container__descricao{
     padding: 2em;
 }
